@@ -1,6 +1,6 @@
 ## svelte-routing 範例程式碼
 
-Svelte 搭配 svelte-routing 實作客戶端路由。主要的程式碼實作在 App.svelte 當中。
+Svelte 搭配 svelte-routing 實作客戶端路由。主要的程式碼實作在 App.svelte 當中。
 
 ## 安裝指南
 
